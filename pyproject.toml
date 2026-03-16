@@ -1,0 +1,17 @@
+[project]
+name = "minimind"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "datasets>=4.7.0",
+    "modelscope>=1.35.0",
+    "numpy>=2.3.4",
+    "pandas>=2.3.3",
+    "protobuf>=7.34.0",
+    "sentencepiece>=0.2.1",
+    "tiktoken>=0.12.0",
+    "torch>=2.9.0",
+    "transformers>=4.57.1",
+]
